@@ -1,0 +1,30 @@
+﻿1994,1995-2003,2004-2006,2007-2012,2013-2019
+Country Name,Country Name,Country Name,Country Name,Country Name
+Belgium,Austria,Austria,Austria,Austria
+Germany,Belgium,Belgium,Belgium,Belgium
+Denmark,Germany,Cyprus,Bulgaria,Bulgaria
+Spain,Denmark,Czech Republic,Cyprus,Cyprus
+France,Spain,Germany,Czech Republic,Czech Republic
+Greece,Finland,Denmark,Germany,Germany
+Ireland,France,Spain,Denmark,Denmark
+Italy,Greece,Estonia,Spain,Spain
+Luxembourg,Ireland,Finland,Estonia,Estonia
+Netherlands,Italy,France,Finland,Finland
+Portugal,Luxembourg,Greece,France,France
+United Kingdom,Netherlands,Hungary,Greece,Greece
+,Portugal,Ireland,Hungary,Croatia
+,Sweden,Italy,Ireland,Hungary
+,United Kingdom,Lithuania,Italy,Ireland
+,,Luxembourg,Lithuania,Italy
+,,Latvia,Luxembourg,Lithuania
+,,Malta,Latvia,Luxembourg
+,,Netherlands,Malta,Latvia
+,,Poland,Netherlands,Malta
+,,Portugal,Poland,Netherlands
+,,Slovak Republic,Portugal,Poland
+,,Slovenia,Romania,Portugal
+,,Sweden,Slovak Republic,Romania
+,,United Kingdom,Slovenia,Slovak Republic
+,,,Sweden,Slovenia
+,,,United Kingdom,Sweden
+,,,,United Kingdom
