@@ -9,21 +9,21 @@ In several plots, World and European Union averages were also compared.
 
 ## Countries representation
 In the jupyter notebook file:
-* The World represents 217 countries
+* The World represents 217 countries;
 * The EU represents a different amount of countries, depending on when they have entered the EU.
 
 List of these countries you can find in **World and EU list** folder.
 
 ## Metrics for comparison:
-1) GDP
-2) GDP per capita
-3) GDP PPP
-4) GDP PPP per capita
-5) GINI index
-6) Foreign Exchange Reserves
-7) Inflation Rate
-8) Corruption perception index
-9) Unemployment
+1) GDP;
+2) GDP per capita;
+3) GDP PPP;
+4) GDP PPP per capita;
+5) GINI index;
+6) Foreign Exchange Reserves;
+7) Inflation Rate;
+8) Corruption perception index;
+9) Unemployment.
 
 ## How to run ?
 `app.ipynb`
