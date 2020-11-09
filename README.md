@@ -34,3 +34,6 @@ Vilnius Coding School
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Render `app.ipynb` via nbviewer 
+[app.ipynb](https://nbviewer.jupyter.org/github/unkind58/Project_Belarus_Statistics/blob/master/app.ipynb)
+
